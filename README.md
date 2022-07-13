@@ -107,3 +107,20 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
         2. Writable - used for write operation
         3. Duplex - used for both read and write operation
         4. Transfrom - a type of duplex stream where the output is computed based on input
+        
+ # 🟢⏰🔵console Comand Sortcut key:
+              
+              🐱‍👤 ctrl + `  => open newTerminal.
+              🐱‍👤 dir       => to show the all file in this curent Directory.
+              🐱‍👤 cd ..     => to back one step from the current Directory.
+              🐱‍👤 cd [dir Name] => to change Directory.
+              🐱‍👤 mkdir [folder name]   => to creat a new folder.
+              🐱‍👤 type null > [file name] => to creat a new empty file.
+              🐱‍👤 node [file name] => to run file.
+              🐱‍👤 nodemon [fileName] => to run continue.
+              
+   #  Thamk You
+    Sastik Kumar Das
+    
+    Student #CEMK
+    14/07/2022
