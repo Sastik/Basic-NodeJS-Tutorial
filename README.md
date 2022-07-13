@@ -108,7 +108,7 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
         3. Duplex - used for both read and write operation
         4. Transfrom - a type of duplex stream where the output is computed based on input
         
- # 🟢⏰🔵Console Comand Sortcut key:
+ # ⏰Console Comand Sortcut key:
               
               🐱‍👤 ctrl + `  => open newTerminal.
               🐱‍👤 dir       => to show the all file in this curent Directory.
