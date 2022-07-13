@@ -19,6 +19,11 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
                   3. Real time Chat application.
      
    # 📌 Installing nodeJS🐱‍🚀:
+     Step 1: Download Node.js Installer >> https://nodejs.org/en/download/.
+     
+     Step 2: Install Node.js 
+     
+     Step 3: Verify Installation   >> node -v
    
  #  📌 npm 🐱‍🚀: 
  NPM – or "Node Package Manager" – is the default package manager for JavaScript's runtime Node.js.
