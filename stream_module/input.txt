@@ -1,0 +1,7 @@
+Hi !
+This is the nodeJs Tutorial.
+Node js is a javascript runtime Built on chrome's V8 javascript engine. 
+
+finally stream........
+
+In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run JvaScript OutSide Browser, So he took V8 engine and embedded in a C++ Program and called it node.exe later on became NodeJS.
