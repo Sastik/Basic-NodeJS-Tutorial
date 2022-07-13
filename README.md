@@ -28,10 +28,10 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
  #  📌 npm 🐱‍🚀: 
  NPM – or "Node Package Manager" – is the default package manager for JavaScript's runtime Node.js.
  
-    1. a CLI (command-line interface) tool for publishing and downloading packages.
-    2. an online repository that hosts JavaScript packages
+    1. A CLI (command-line interface) tool for publishing and downloading packages.
+    2. An online repository that hosts JavaScript packages
 
-* NPM is the world's largest Software Library.
+* npm is the world's largest Software Library.
 * npm is also a software Package Manager and Installer.
  
 
@@ -59,7 +59,7 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
        4. Use (_) to get last result.
        5. we can use editor mode.
 
- #  📸🐱 some Command for Node Terminal
+ #  📸🐱 Some Command for Node Terminal
    .help --- use to more information.
    
    tab + tab --- use to all information.
@@ -75,11 +75,11 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
           name("sastik kumar das");
           
    # 📌 NodeJs core Module 🐱‍🚀: 
-   consider mudules to be the same as javascript librarries. A set of functions you wnat to include in your application. 
+   Consider mudules to be the same as javascript librarries. A set of functions you wnat to include in your application. 
    
    Nodejs has set of built-in Modules which you can use without any further installation.
   # 📌 NodeJs web server 🐱‍🚀:
-  to  access web pages of any webapplication ,we need a web server.the web server will handle all the http requests for the web application.
+  To  access web pages of any webapplication ,we need a web server.the web server will handle all the http requests for the web application.
   
   e.g -- IIS is a web server for ASP.NET web applications and Apache is a web server for PHP or java Web applications.
 
@@ -101,14 +101,14 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
    #  📌 Streams in NodeJS 🐱‍🚀:
    Streams are objects that let you read data from a sorce or write data to a destination in continuous fashion. there are 4 types of streams-
         
-   streaming means listening to music or watching video in 'real time', instad of downloading a file to your computer and watching it later
+   Streaming means listening to music or watching video in 'real time', instad of downloading a file to your computer and watching it later
            
         1. Readable - use for read operation
         2. Writable - used for write operation
         3. Duplex - used for both read and write operation
         4. Transfrom - a type of duplex stream where the output is computed based on input
         
- # 🟢⏰🔵console Comand Sortcut key:
+ # 🟢⏰🔵Console Comand Sortcut key:
               
               🐱‍👤 ctrl + `  => open newTerminal.
               🐱‍👤 dir       => to show the all file in this curent Directory.
@@ -119,8 +119,7 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
               🐱‍👤 node [file name] => to run file.
               🐱‍👤 nodemon [fileName] => to run continue.
               
-   #  Thamk You
+   #  Thank You
     Sastik Kumar Das
-    
     Student #CEMK
     14/07/2022
