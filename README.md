@@ -63,3 +63,13 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
    .help --- use to more information.
    
    tab + tab --- use to all information.
+   
+   editor mode :  .editor
+   
+      // Entering editor mode (Ctrl+D to finish, Ctrl+C to cancel)
+
+          🐱‍👤const name = (myname)=>
+          {
+             console.log(`my name is ${myname}`);
+          }
+          name("sastik kumar das");
