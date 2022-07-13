@@ -74,12 +74,12 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
           }
           name("sastik kumar das");
           
-   #📌 NodeJs core Module 🐱‍🚀: 
+   # 📌 NodeJs core Module 🐱‍🚀: 
    consider mudules to be the same as javascript librarries. A set of functions you wnat to include in your application.
    
     Nodejs has set of built-in Modules which you can use without any further installation.
         
-        📌 NodeJs web server 🐱‍🚀:
+     #   📌 NodeJs web server 🐱‍🚀:
         to  access web pages of any webapplication ,we need a web server.the web server will handle all the http requests for the web application.
 
         e.g -- IIS is a web server for ASP.NET web applications and Apache is a web server for PHP or java Web applications.
@@ -87,20 +87,20 @@ In 2009 an idea vcame in the mind of Ryan Dahl(Google Engineer) That why not run
         Node.js provides capabilities to creat our own web server which  will handle HTTP requests asynchronously.
         we can use IIS or Apache to run Node.js web application but it is recommended to use Node.js web server.
 
-        📌 JSON 🐱‍🚀: 
+      #  📌 JSON 🐱‍🚀: 
         JSON stand for Javascript Object Notation.
         
         JSON is a lightweight format for storing and transporting data.
         
         JSON is often used when data is sent from a server to a web pages.
 
-         📌 API 🐱‍🚀: 
+       #  📌 API 🐱‍🚀: 
          API is the acronym for application Programming interface,Which is a software intermediary that allows two applications to talk to each other. Each time you an app like Facebook,Send an instat message ,or check the weather on your phone ,you are using an API.
 
-        📌 Event module 🐱‍🚀:
+       # 📌 Event module 🐱‍🚀:
         NodeJs has a built-in module, called 'event',where you can creat-,fire-, and listten for our own events.
 
-        📌 Streams in NodeJS 🐱‍🚀:
+      #  📌 Streams in NodeJS 🐱‍🚀:
         Streams are objects that let you read data from a sorce or write data to a destination in continuous fashion. there are 4 types of streams-
         
            streaming means listening to music or watching video in 'real time', instad of downloading a file to your computer and watching it later
